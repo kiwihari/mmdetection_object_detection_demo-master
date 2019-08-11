@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bedroom_resized</folder>
+	<filename>00000212.jpg</filename>
+	<path>D:\labelImg-master\demo\room_images\bedroom_resized\00000212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>380</ymin>
+			<xmax>465</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+</annotation>

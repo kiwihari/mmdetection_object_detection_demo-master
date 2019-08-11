@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bedroom_resized</folder>
+	<filename>00000016.jpg</filename>
+	<path>C:\Users\greshan\Documents\CS special\400\research\room_images\bedroom_resized\00000016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>712</xmin>
+			<ymin>70</ymin>
+			<xmax>800</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>253</ymin>
+			<xmax>583</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>
